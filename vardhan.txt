@@ -23,4 +23,8 @@ git commit -m "<commit message>"
 git push
 ----------------------------------
 
+
+-----Other commadss
+
 ----Important other commands
+
