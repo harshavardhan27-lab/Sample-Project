@@ -1,0 +1,12 @@
+git clone 
+ls
+pwd
+ls -l 
+git diff
+git status
+git add -u
+git diff --staged
+cd
+cd..
+touch file.txt
+
