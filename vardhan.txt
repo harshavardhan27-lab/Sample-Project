@@ -1,3 +1,4 @@
+----------Basic Linux Commads--------
 ls
 pwd
 cd
@@ -5,6 +6,7 @@ cd..
 ls -l
 touch file.txt
 
+--------GIT Commands------------
 git clone
 git fetch
 git pull
@@ -19,3 +21,4 @@ git diff --staged
 
 git commit -m "<commit message>"
 git push
+----------------------------------
